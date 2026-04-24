@@ -2,7 +2,8 @@
 
 A simple, responsive Hangman game built with plain HTML, CSS, and JavaScript.
 
-![Game Screenshot](./Screenshot 2024-12-20 134636.png)
+<!-- Use raw.githubusercontent URL (spaces encoded) so GitHub reliably renders the image in the README -->
+![Game Screenshot](https://raw.githubusercontent.com/BinaryVortex/Hangman-Game-2/main/Screenshot%202024-12-20%20134636.png)
 
 ## Description
 
